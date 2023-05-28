@@ -1,0 +1,1 @@
+{"Nodes":[{"Url":"http://127.0.0.1:8083","Database":"Prova","ClusterTag":"C","ServerRole":"Member"},{"Url":"http://127.0.0.1:8081","Database":"Prova","ClusterTag":"A","ServerRole":"Member"},{"Url":"http://127.0.0.1:8082","Database":"Prova","ClusterTag":"B","ServerRole":"Member"}],"Etag":140,"PersistedAt":"2023-05-26T21:56:10.8526015+00:00"}
